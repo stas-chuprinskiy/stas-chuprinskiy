@@ -1,16 +1,68 @@
-### Hi there 👋
+<div id="header">
+  <img src="https://readme-typing-svg.demolab.com/?width=465&lines=👋+Hi+there;👨🏻‍💻+My+name+is+Stanislav;👾+I'm+a+beginner+Python+programmer;🖖Feel+welcome+and+free" />
+</div>
 
-<!--
-**stas-chuprinskiy/stas-chuprinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>To reach me</h3>
 
-Here are some ideas to get you started:
+<div id="reach-me-badges">
+  <a href="https://t.me/jschupss">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:stas.chuprinskiy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>My stack</h3>
+
+<div id="my-stack-badges">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DjangoREST Badge"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+</div>
+
+<h3>My projects</h3>
+
+<h4>Foodgram</h4>
+
+<p>Don't know what to cook for dinner? Wanna share your culinary secrets? Foodgram - create your own recipes, subscribe to popular authors, add recipes to your shopping cart. Bon appetit!</p>
+
+<details>
+  <summary>details</summary>
+  
+  ...
+</details>
+
+<h4>REST Api for Yatube</h4>
+
+<p>Classic CRUD REST API for Yatube blog.</p>
+
+<details>
+  <summary>details</summary>
+  
+  ...
+</details>
+
+<h4>Notification telegram bot</h4>
+
+<p>Telegram bot that notifies about the status of homework in the Practicum.</p>
+
+<details>
+  <summary>details</summary>
+  
+  ...
+</details>
+
+<h4>Yatube - simple but useful Django blog</h4>
+
+<p>A blog where you can create groups, write posts and comments, subscribe to interesting authors.</p>
+
+<details>
+  <summary>details</summary>
+  
+  ...
+</details>
