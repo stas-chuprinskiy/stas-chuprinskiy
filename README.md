@@ -34,7 +34,7 @@
 <details>
   <summary>details</summary>
   
-  ...
+  <a href="https://github.com/stas-chuprinskiy/foodgram-project-react">Go to the repository</a>
 </details>
 
 <h4>REST Api for Yatube</h4>
@@ -44,7 +44,7 @@
 <details>
   <summary>details</summary>
   
-  ...
+  <a href="https://github.com/stas-chuprinskiy/api_final_yatube">Go to the repository</a>
 </details>
 
 <h4>Notification telegram bot</h4>
@@ -54,7 +54,7 @@
 <details>
   <summary>details</summary>
   
-  ...
+  <a href="https://github.com/stas-chuprinskiy/homework_bot">Go to the repository</a>
 </details>
 
 <h4>Yatube - simple but useful Django blog</h4>
@@ -64,5 +64,5 @@
 <details>
   <summary>details</summary>
   
-  ...
+  <a href="https://github.com/stas-chuprinskiy/hw05_final">Go to the repository</a>
 </details>
