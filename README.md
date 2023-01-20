@@ -57,12 +57,22 @@
   <a href="https://github.com/stas-chuprinskiy/homework_bot">Go to the repository</a>
 </details>
 
-<h4>Yatube - simple but useful Django blog</h4>
+<h4>Yatube - simple and useful Django blog</h4>
 
 <p>A blog where you can create groups, write posts and comments, subscribe to interesting authors.</p>
 
 <details>
   <summary>details</summary>
   
-  <a href="https://github.com/stas-chuprinskiy/hw05_final">Go to the repository</a>
+  <a href="https://github.com/stas-chuprinskiy/yatube">Go to the repository</a>
+</details>
+
+<h4>Fitness tracker module</h4>
+
+<p>Fitness tracker module that processes data for three types of training: running, walking and swimming.</p>
+
+<details>
+  <summary>details</summary>
+  
+  <a href="https://github.com/stas-chuprinskiy/fitness_tracker_module">Go to the repository</a>
 </details>
