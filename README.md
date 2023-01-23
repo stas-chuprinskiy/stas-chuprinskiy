@@ -28,51 +28,50 @@
 <h3>My projects</h3>
 
 <h4>Foodgram</h4>
-
 <p>Don't know what to cook for dinner? Wanna share your culinary secrets? Foodgram - create your own recipes, subscribe to popular authors, add recipes to your shopping cart. Bon appetit!</p>
-
 <details>
   <summary>details</summary>
-  
   <a href="https://github.com/stas-chuprinskiy/foodgram-project-react">Go to the repository</a>
 </details>
 
-<h4>REST Api for Yatube</h4>
-
-<p>Classic CRUD REST API for Yatube blog.</p>
-
+<h4>YaMDB CI/CD</h4>
+<p>YaMDB implementation in Docker. Setting up CI/CD workflow for YaMDB project.</p>
 <details>
   <summary>details</summary>
-  
-  <a href="https://github.com/stas-chuprinskiy/api_final_yatube">Go to the repository</a>
+  <a href="https://github.com/stas-chuprinskiy/yamdb_final">Go to the repository</a>
+</details>
+
+<h4>API for YaMDB</h4>
+<p>YaMDb - user reviews, ratings and comments on your favorite music, books, movies and more.</p>
+<details>
+  <summary>details</summary>
+  <a href="https://github.com/stas-chuprinskiy/api_yamdb">Go to the repository</a>
+</details>
+
+<h4>API for Yatube</h4>
+<p>Classic CRUD REST API for Yatube blog.</p>
+<details>
+  <summary>details</summary>
+  <a href="https://github.com/stas-chuprinskiy/api_yatube">Go to the repository</a>
 </details>
 
 <h4>Notification telegram bot</h4>
-
 <p>Telegram bot that notifies about the status of homework in the Practicum.</p>
-
 <details>
   <summary>details</summary>
-  
   <a href="https://github.com/stas-chuprinskiy/homework_bot">Go to the repository</a>
 </details>
 
 <h4>Yatube - simple and useful Django blog</h4>
-
 <p>A blog where you can create groups, write posts and comments, subscribe to interesting authors.</p>
-
 <details>
   <summary>details</summary>
-  
   <a href="https://github.com/stas-chuprinskiy/yatube">Go to the repository</a>
 </details>
 
 <h4>Fitness tracker module</h4>
-
 <p>Fitness tracker module that processes data for three types of training: running, walking and swimming.</p>
-
 <details>
   <summary>details</summary>
-  
   <a href="https://github.com/stas-chuprinskiy/fitness_tracker_module">Go to the repository</a>
 </details>
