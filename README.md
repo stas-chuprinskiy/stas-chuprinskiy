@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://readme-typing-svg.demolab.com/?width=465&lines=👋+Hi+there;👨🏻‍💻+My+name+is+Stanislav;👾+I'm+a+beginner+Python+Engineer;🖖Feel+welcome+and+free" />
+  <img src="https://readme-typing-svg.demolab.com/?width=465&lines=👋+Hi+there;👨🏻‍💻+My+name+is+Stanislav;👾+I'm+a+Python+Engineer;🖖Feel+welcome+and+free" />
 </div>
 
 <h2>To reach me</h2>
