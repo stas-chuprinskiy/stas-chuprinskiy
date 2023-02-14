@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?width=465&lines=👋+Hi+there;👨🏻‍💻+My+name+is+Stanislav;👾+I'm+a+beginner+Python+developer;🖖Feel+welcome+and+free" />
 </div>
 
-<h3>To reach me</h3>
+<h2>To reach me</h2>
 
 <div id="reach-me-badges">
   <a href="https://t.me/jschupss">
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h3>My stack</h3>
+<h2>My stack</h2>
 
 <div id="my-stack-badges">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
@@ -26,53 +26,53 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
 </div>
 
-<h3>My projects</h3>
+<h2>My projects</h2>
 
-<h4>Foodgram</h4>
-<p>Don't know what to cook for dinner? Wanna share your culinary secrets? Foodgram - create your own recipes, subscribe to popular authors, add recipes to your shopping cart. Bon appetit!</p>
-<details>
-  <summary>details</summary>
-  <a href="https://github.com/stas-chuprinskiy/foodgram-project-react">Go to the repository</a>
-</details>
+<h3>Foodgram</h3>
+<p>
+Don't know what to cook for dinner? Wanna share your culinary secrets? Foodgram - create your own recipes, subscribe to popular authors, add recipes to your shopping cart. Bon appetit!
 
-<h4>YaMDB CI/CD</h4>
-<p>YaMDB implementation in Docker. Setting up CI/CD workflow for YaMDB project.</p>
-<details>
-  <summary>details</summary>
-  <a href="https://github.com/stas-chuprinskiy/yamdb_final">Go to the repository</a>
-</details>
+<a href="https://github.com/stas-chuprinskiy/foodgram-project-react">Go to the repository</a>
+</p>
 
-<h4>API for YaMDB</h4>
-<p>YaMDb - user reviews, ratings and comments on your favorite music, books, movies and more.</p>
-<details>
-  <summary>details</summary>
-  <a href="https://github.com/stas-chuprinskiy/api_yamdb">Go to the repository</a>
-</details>
+<h3>YaMDB CI/CD</h3>
+<p>
+YaMDB implementation in Docker. Setting up CI/CD workflow for YaMDB project.
 
-<h4>API for Yatube</h4>
-<p>Classic CRUD REST API for Yatube blog.</p>
-<details>
-  <summary>details</summary>
-  <a href="https://github.com/stas-chuprinskiy/api_yatube">Go to the repository</a>
-</details>
+<a href="https://github.com/stas-chuprinskiy/yamdb_final">Go to the repository</a>
+</p>
 
-<h4>Notification telegram bot</h4>
-<p>Telegram bot that notifies about the status of homework in the Practicum.</p>
-<details>
-  <summary>details</summary>
-  <a href="https://github.com/stas-chuprinskiy/homework_bot">Go to the repository</a>
-</details>
+<h3>API for YaMDB</h3>
+<p>
+YaMDb - user reviews, ratings and comments on your favorite music, books, movies and more.
 
-<h4>Yatube - simple and useful Django blog</h4>
-<p>A blog where you can create groups, write posts and comments, subscribe to interesting authors.</p>
-<details>
-  <summary>details</summary>
-  <a href="https://github.com/stas-chuprinskiy/yatube">Go to the repository</a>
-</details>
+<a href="https://github.com/stas-chuprinskiy/api_yamdb">Go to the repository</a>
+</p>
 
-<h4>Fitness tracker module</h4>
-<p>Fitness tracker module that processes data for three types of training: running, walking and swimming.</p>
-<details>
-  <summary>details</summary>
-  <a href="https://github.com/stas-chuprinskiy/fitness_tracker_module">Go to the repository</a>
-</details>
+<h3>API for Yatube</h3>
+<p>
+Classic CRUD REST API for Yatube blog.
+
+<a href="https://github.com/stas-chuprinskiy/api_yatube">Go to the repository</a>
+</p>
+
+<h3>Notification telegram bot</h3>
+<p>
+Telegram bot that notifies about the status of homework in the Practicum.
+
+<a href="https://github.com/stas-chuprinskiy/homework_bot">Go to the repository</a>
+</p>
+
+<h3>Yatube - simple and useful Django blog</h3>
+<p>
+A blog where you can create groups, write posts and comments, subscribe to interesting authors.
+
+<a href="https://github.com/stas-chuprinskiy/yatube">Go to the repository</a>
+</p>
+
+<h3>Fitness tracker module</h3>
+<p>
+Fitness tracker module that processes data for three types of training: running, walking and swimming.
+
+<a href="https://github.com/stas-chuprinskiy/fitness_tracker_module">Go to the repository</a>
+</p>
