@@ -1,8 +1,20 @@
 <div id="header">
-  <img src="https://readme-typing-svg.demolab.com/?width=465&lines=👋+Hi+there;👨🏻‍💻+My+name+is+Stanislav;👾+I'm+a+Python+Engineer;🖖Feel+welcome+and+free" />
+  <img src="https://readme-typing-svg.demolab.com/?width=465&lines=👋+Привет!;👨🏻‍💻+Меня+зовут+Станислав;👾+Я+-+Python+разработчик;🖖Чувствуй+себя+как+дома+:)" />
 </div>
 
-<h2>To reach me</h2>
+<h3>Обо мне</h3>
+
+<div>
+  <ul>
+    <li>Больше года развиваюсь и совершенствуюсь в качестве Python разработчика.</li>
+    <li>Уверенно пишу веб приложения в связке Django + DRF + PostgreSQL.</li>
+    <li>Активно изучаю библиотеки Telethon и Aiogram для разработки Telegram-ботов.</li>
+    <li>Прошел обучение по профессии Python Backend Developer от Яндекс.Практикум.</li>
+    <li>Веду активный образ жизни: играю в баскетбол и катаюсь на горных лыжах.</li>
+  </ul>
+</div>
+
+<h3>Контакты</h3>
 
 <div id="reach-me-badges">
   <a href="https://t.me/jschupss">
@@ -13,7 +25,7 @@
   </a>
 </div>
 
-<h2>My stack</h2>
+<h3>Технологии</h3>
 
 <div id="my-stack-badges">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
@@ -26,53 +38,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
 </div>
 
-<h2>My projects</h2>
+<h3>Статистика</h3>
 
-<h3>Foodgram</h3>
-<p>
-Don't know what to cook for dinner? Wanna share your culinary secrets? Foodgram - create your own recipes, subscribe to popular authors, add recipes to your shopping cart. Bon appetit!
-
-<a href="https://github.com/stas-chuprinskiy/foodgram-project-react">Go to the repository</a>
-</p>
-
-<h3>YaMDB CI/CD</h3>
-<p>
-YaMDB implementation in Docker. Setting up CI/CD workflow for YaMDB project.
-
-<a href="https://github.com/stas-chuprinskiy/yamdb_final">Go to the repository</a>
-</p>
-
-<h3>API for YaMDB</h3>
-<p>
-YaMDb - user reviews, ratings and comments on your favorite music, books, movies and more.
-
-<a href="https://github.com/stas-chuprinskiy/api_yamdb">Go to the repository</a>
-</p>
-
-<h3>API for Yatube</h3>
-<p>
-Classic CRUD REST API for Yatube blog.
-
-<a href="https://github.com/stas-chuprinskiy/api_yatube">Go to the repository</a>
-</p>
-
-<h3>Notification telegram bot</h3>
-<p>
-Telegram bot that notifies about the status of homework in the Practicum.
-
-<a href="https://github.com/stas-chuprinskiy/homework_bot">Go to the repository</a>
-</p>
-
-<h3>Yatube - simple and useful Django blog</h3>
-<p>
-A blog where you can create groups, write posts and comments, subscribe to interesting authors.
-
-<a href="https://github.com/stas-chuprinskiy/yatube">Go to the repository</a>
-</p>
-
-<h3>Fitness tracker module</h3>
-<p>
-Fitness tracker module that processes data for three types of training: running, walking and swimming.
-
-<a href="https://github.com/stas-chuprinskiy/fitness_tracker_module">Go to the repository</a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stas-chuprinskiy&hide_progress=true)
