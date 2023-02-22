@@ -10,7 +10,7 @@
     <li>Уверенно пишу веб приложения в связке Django + DRF + PostgreSQL.</li>
     <li>Активно изучаю библиотеки Telethon и Aiogram для разработки Telegram-ботов.</li>
     <li>Прошел обучение по профессии Python Backend Developer от Яндекс.Практикум.</li>
-    <li>Веду активный образ жизни: играю в баскетбол и катаюсь на горных лыжах.</li>
+    <li>Веду активный образ жизни: тренируюсь в зале, играю в баскетбол, катаюсь на горных лыжах.</li>
   </ul>
 </div>
 
@@ -41,3 +41,7 @@
 <h3>Статистика</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stas-chuprinskiy&hide_progress=true)
+
+[![LeetCode user chupss](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchupss&logo=leetcode&logoColor=yellow)](https://leetcode.com/chupss/)
+
+[![Codewars user chupss](https://www.codewars.com/users/chupss/badges/large)](https://www.codewars.com/users/chupss)
